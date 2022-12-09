@@ -1,13 +1,13 @@
-Body {
+rBody {
   background-color: lightblue;
 }
 
 H1 {
-alignment: auto;
+alignment: center;
 
 
 }
 
 H2 {
- alignment: auto; 
+ alignment: cneter; 
 }
